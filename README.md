@@ -5,20 +5,24 @@
 
 ********************************
 
-Ejercicio 1: Escriba una clase que permita describir un libro y situar los valores asociados. Dar un ejemplo de uso en Python.
+Ejercicio 1: 
 
--En este ejercicio he persentado un reusmen en el txt y un programa eb python, si lo puedes llamar asi.
+        Escriba una clase que permita describir un libro y situar los valores asociados. Dar un ejemplo de uso en Python.
+
+-> En este ejercicio he persentado un reusmen en el txt y un programa eb python, si lo puedes llamar asi.
 
 
-Ejercicio 2: A partir de estos objetos: Animal, Mamífero, Ovíparom, Pollo, Gato, Ornitorrinco.
+Ejercicio 2:   
+               
+        A partir de estos objetos: Animal, Mamífero, Ovíparom, Pollo, Gato, Ornitorrinco.
 
-        -Describa las relaciones entre los diferentes objetos con un diagrama asociado llamado "diagrama de clases".
+                -Describa las relaciones entre los diferentes objetos con un diagrama asociado llamado "diagrama de clases".
 
-        -Dar un ejemplo de descripción algorítmica de las clases asociadas (únicamente la declaración de clase XXX).
+                -Dar un ejemplo de descripción algorítmica de las clases asociadas (únicamente la declaración de clase XXX).
 
-        -Implementar los objetos en python.
+                -Implementar los objetos en python.
        
--En este ejercicio he presentado otra descripción junto a un drawio y un código.
+-> En este ejercicio he presentado otra descripción junto a un drawio y un código.
 
 
 Ejercicio 4:
@@ -44,4 +48,4 @@ Ejercicio 4:
     un sueldo inicial de 10.000 €, transferir dinero de unas a otras las cantidades de 2000 €, ingresar 575 € 
     y retirar dinero 78 €. 
    
--En este ejercicio he hecho directamente el código de python.
+-> En este ejercicio he hecho directamente el código de python.
