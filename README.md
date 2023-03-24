@@ -1,7 +1,7 @@
-# Parcial-Programaciopn-Orientada-a-Objetos
+# Parcial-Programacion-Orientada-a-Objetos
 # Nombre de usuario: alejandru00
 # Link repositorio:
-[Github: ]
+[Github: https://github.com/alejandru00/Parcial-Programaci-n-Orientada-a-Objetos.git]
 
 ********************************
 
