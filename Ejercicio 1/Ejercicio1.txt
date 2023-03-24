@@ -1,0 +1,10 @@
+
+
+Ejercicio 1: Escriba una clase que permita describir un libro y situar los valores asociados. Dar un ejemplo de uso en Python.
+
+************************************
+
+RESUMEN:
+
+    Crearemos un libro que permita describir este con datos sobre el título, el año de publicacion, el autor, el número de páginas...
+Para ello creamos la clase llamada libro, en una función pondremos las variables y en otra la manera de printearlo.

@@ -1,0 +1,17 @@
+
+
+Ejercicio 2: A partir de estos objetos: Animal, Mamífero, Ovíparom, Pollo, Gato, Ornitorrinco.
+
+        -Describa las relaciones entre los diferentes objetos con un diagrama asociado llamado "diagrama de clases".
+
+        -Dar un ejemplo de descripción algorítmica de las clases asociadas (únicamente la declaración de clase XXX).
+
+        -Implementar los objetos en python.
+    
+************************************
+
+
+DESCRIPCIÓN:
+
+    Los objetos Mamífero y Ovíparo son subclases del objeto Animal; que a la vez tienen sus subclases. Gato y Ornitorrinco se encuentran dentro 
+de Mamíferos y Pollo se encuentra dentro de Ovíparo.
