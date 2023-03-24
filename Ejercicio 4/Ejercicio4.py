@@ -7,7 +7,7 @@ class cuenta_bancaria:
     
     ID = 0
 
-    def __init__(self, titular):        #Creamos un constructor para la clase cuenta_bancaria que sera nuestra clase padre/madre/tutor legal.
+    def __init__(self, titular, ID):        #Creamos un constructor para la clase cuenta_bancaria que sera nuestra clase padre/madre/tutor legal.
         ID += 1
         self.titular = titular
         self.fecha_apertura = datetime.date.today()
@@ -90,6 +90,6 @@ class cuenta_VIP(cuenta_bancaria):          #Creamos una clase hija de cuenta_ba
 ############################################################################################################
         
 
-cuenta1 = cuenta_bancaria("Juan")
+cuenta1 = cuenta_bancaria("Juan", 0)         #El 0 no debería estar ahí, pero no sé cómo hacerlo para que se incremente el ID automáticamente :)
 cuenta2 = cuenta_plazo_fijo("María", datetime.today() + datetime.timedelta(days=30))
 cuenta3 = cuenta_VIP("Pedro", 1000)
